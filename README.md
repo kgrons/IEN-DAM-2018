@@ -15,3 +15,12 @@ I prepared these slides and discussed the topics addressed during the discussion
 
 ## SHARING AND USE
 
+Materials in this repository are shared under:
+
+**Attribution-ShareAlike 4.0 International**
+
+**CC BY-SA 4.0**
+
+**Author: Kathryn Gronsbell**
+
+Check out the Creative Commons information in the [LICENSE.md](/LICENSE.md).
