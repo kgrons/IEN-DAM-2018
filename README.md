@@ -10,7 +10,7 @@ I prepared these slides and discussed the topics addressed during the discussion
 
 ## PRESENTATION
 
-🔴 Slides and speaker notes are available **here**. 
+🔴 Slides and speaker notes are available **[here](/IEN-DAMS-2018-CarnegieHall-Gronsbell-speakingnotes.pdf)**. 
 
 
 ## SHARING AND USE
