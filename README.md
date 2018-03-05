@@ -12,6 +12,18 @@ I prepared these slides and discussed the topics addressed during the discussion
 
 🔴 Slides and speaker notes are available **[here](/IEN-DAMS-2018-CarnegieHall-Gronsbell-speakingnotes.pdf)**. 
 
+## REFERENCED WORK & RESEARCH
+
+The last slide in the presentation unfortunately does not have the links embedded in the PDF. Instead, here are the works referenced for this discussion, with associated links:
+
+- [Beyond the Repository: Integrating Local Preservation Systems with National Distribution Services IMLS LG-71-16-0135](https://arch.library.northwestern.edu/concern/generic_works/00000009g), Northwestern University (2018)
+- [From Project to Program: Advocating for Sustainable Digital Preservation](https://docs.google.com/presentation/d/1nE8DHUK8wx6484vyZx22la1hld86arB72tgZvSrWz8k/edit#slide=id.g13e4fbcd0f_0_16). Shira Peltzman (2016).
+- [Help Joy help you. On the unusability of internal systems](http://www.disambiguity.com/help-joy-help-you/). Leisa Reichelt (2014).
+- [The Maintainers conference](http://themaintainers.org) (2016, 2017): “concepts of maintenance, infrastructure, repair, and the myriad forms of labor and expertise that sustain our human-built world”.
+- [Staffing for Effective Digital Preservation 2017](http://ndsa.org/documents/Report_2017DigitalPreservationStaffingSurvey.pdf) - National Digital Stewardship Alliance (NDSA).
+- [Towards Strategies For Making Legacy Software Curation-ready](https://softarchitectures.wordpress.com/2017/09/22/towards-strategies-for-making-legacy-software-curation-ready/). Alexandra Chassanoff (2017).
+- [The Organization Ontology](https://www.w3.org/TR/vocab-org/#class-role) (W3C Recommendation 2014).
+- Special thanks to Bethany Nowviskie (DLF) for sharing research and perspective related to her work on [The Graceful Degradation Survey: Managing Digital Humanities Projects Through Times of Transition and Decline](http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/pdf/book-final.pdf) (2010), with co-author Dot Porter (p. 192)
 
 ## SHARING AND USE
 
